@@ -26,7 +26,7 @@
         <version-hibernate.validator>5.0.1.Final</version-hibernate.validator>
         <version-hibernate.jpa>1.0.1.Final</version-hibernate.jpa>
         <version-hibernate>4.2.6.Final</version-hibernate>
-        <mysql.version>5.1.35</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
 
     </properties>
 
